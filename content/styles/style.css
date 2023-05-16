@@ -1,0 +1,14 @@
+header{
+    background-color: lightblue;
+    border: 40rem;
+}
+footer{
+    background-color: lightblue;
+    border:40rem;
+}
+main{
+    background-color: bisque;
+}
+*{
+    font:helvetica;
+}
